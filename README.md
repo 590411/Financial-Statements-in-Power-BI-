@@ -1,7 +1,5 @@
 
 # Financial Statement Automation for GL retail corporation
-
-## Company activity/ field :  
  
 ## Table of Content
 -  [Project Overview](#project-overview)
@@ -10,7 +8,6 @@
 -  [Data cleaning ](#data-cleaning )
 -  [Exploratory data analysis](#exploratory-data-analysis)
 -  [Data analysis](#data-analysis)
--  
  
 ### Project overview 
 ---
@@ -50,6 +47,7 @@ For all of these reports ,  there should be the data last updated date. it will 
 
 ![Screenshot 2025-03-06 032645](https://github.com/user-attachments/assets/8c2ffb21-522b-4c0b-8310-df43148498e7)
 
+
  ### Data sources
  ---
 
@@ -57,7 +55,7 @@ For all of these reports ,  there should be the data last updated date. it will 
 
 ### Tools
 ---
-  - Azure Data Studio-SQL :  Data extraction and loading from the database
+  - Azure Data Studio - SQL :  Data extraction and loading from the database
   - Power Query : Data transformation
   - Power BI : Data model and visualization
   - DAX : Calculating mesures
