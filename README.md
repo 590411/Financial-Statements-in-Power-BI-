@@ -10,8 +10,8 @@
 -  [Data cleaning ](#data-cleaning )
 -  [Exploratory data analysis](#exploratory-data-analysis)
 -  [Data analysis](#data-analysis)
--  [Findings](#findings)
-  
+-  
+ 
 ### Project overview 
 ---
 
@@ -40,11 +40,15 @@ to  have an easy way to see those trends that would be ideal.
 
 -Sales & Inventory : These report will be really valuable for both the finance and category teams. Whilst the total sales are correct, there is some issues in terms of product and category being misallocated. we shall try  to reallocate those items.
 
-For all of these reports ,  make sure that we know when the data was last updated. it will help the team to understand what they’re looking at. 
+For all of these reports ,  there should be the data last updated date. it will help the team to understand what they’re looking at. 
 
-  
+![GLRetail_FinanceDW ERD Documentation](https://github.com/user-attachments/assets/2d624a97-2ffd-4174-b24e-5fb709f8d6f7)
 
+![Screenshot 2025-03-06 032310](https://github.com/user-attachments/assets/f4ce9207-f51b-465c-b617-dc34d85c5979)
 
+![Screenshot 2025-03-06 032600](https://github.com/user-attachments/assets/9ef3e75c-a9d4-41ac-b461-b1d43c27cf86)
+
+![Screenshot 2025-03-06 032645](https://github.com/user-attachments/assets/8c2ffb21-522b-4c0b-8310-df43148498e7)
 
  ### Data sources
  ---
@@ -255,18 +259,6 @@ Dimension tables : dimGLAcct (primary key : GLAcctID ) , dimJournal (primary key
 ```
 
 
-
-
-		
-
-
-### Findings
----
-
--- On the business over view we are able to dive in the performance by store , category and brand of bed that the company sells.
- 
--- On the store  performance overview , we are able to see which day of the week generated the most sale , performance of each category on the business . 
-   Also we can assess the performance of each manager responsible for the store at any given period
  
 
 💻💻  
